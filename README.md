@@ -1,5 +1,9 @@
 # ✈️ Flight Tracker Android App
 
+![IMG1](https://github.com/user-attachments/assets/ab8e9294-46fe-4965-8db4-6912d0bc2306)
+![IMG2](https://github.com/user-attachments/assets/83f8de70-6419-4309-bff3-49c458aa5441)
+
+
 A modern Android application that allows users to track real-time flights by flight number or search routes between airports using IATA codes.
 
 ---
