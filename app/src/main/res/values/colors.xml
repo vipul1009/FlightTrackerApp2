@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1A1A1A</color>        <!-- Deep black -->
+    <color name="primaryDark">#0D0D0D</color>   <!-- Near-black -->
+    <color name="primaryLight">#B0B0B0</color>  <!-- Soft grey -->
+    <color name="accent">#616161</color>        <!-- Muted grey -->
+    <color name="white">#FFFFFF</color>         <!-- Crisp white -->
+    <color name="light_gray">#F0F0F0</color>    <!-- Warm light grey -->
+    <color name="medium_gray">#D3D3D3</color>   <!-- Neutral grey -->
+    <color name="dark_gray">#424242</color>     <!-- Strong grey -->
+    <color name="black">#212121</color>         <!-- Rich black -->
+    <color name="green">#388E3C</color>         <!-- Muted green -->
+    <color name="red">#D32F2F</color>          <!-- Subdued red -->
+    <color name="yellow">#F9A825</color>       <!-- Toned-down yellow -->
+</resources>
